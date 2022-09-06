@@ -1,0 +1,28 @@
+{
+  "name": "random-str-message",
+  "version": "1.0.0",
+  "description": "Random String MEssage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fer4arrieta/random-str-message.git"
+  },
+  "keywords": [],
+  "author": "Fernando Arrieta <FernandoArrieta99@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fer4arrieta/random-str-message/issues"
+  },
+  "homepage": "https://github.com/fer4arrieta/random-str-message#readme",
+  "bin": {
+    "random-str-message": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "user": "^0.0.0"
+  }
+}
